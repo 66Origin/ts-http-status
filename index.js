@@ -108,4 +108,3 @@ exports.getCode = function (status) {
     }
     return null;
 };
-console.log(exports.getStatus(203));

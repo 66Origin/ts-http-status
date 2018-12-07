@@ -116,4 +116,3 @@ export const getCode = (status: string): number | null => {
     }
     return null;
 }
-console.log(getStatus(203));
