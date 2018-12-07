@@ -1,0 +1,27 @@
+{
+  "name": "@yellowinnovation/ts-http-status",
+  "version": "0.1.0",
+  "description": "Typescript ANSI compliant http status codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YellowInnovation/ts-http-status.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "typescript"
+  ],
+  "author": "o0Ignition0o <jeremy.lempereur@yellowinnovation.fr>",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/YellowInnovation/ts-http-status/issues"
+  },
+  "homepage": "https://github.com/YellowInnovation/ts-http-status#readme",
+  "dependencies": {
+    "typescript": "next"
+  }
+}
